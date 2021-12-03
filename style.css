@@ -66,3 +66,34 @@
 .dropdown:hover .dropdown-content {
   display: block;
 }
+.landing{
+  background-image: url(images/intro-bg.jpg);
+  background-repeat: no-repeat;
+  background-color: black;
+  background-size: cover;
+  height: 700px;
+  padding-top: 5px;
+  
+}
+.landing h2 {
+  color: red;
+  text-align: center;
+}
+.landing h1{
+  color: white;
+  text-align: center;
+}
+.landing h3{
+  color: whitesmoke;
+  margin-left: 450px;
+  text-align: centre;
+}
+#name{
+  color:white;
+  letter-spacing: 4px;
+  line-height: 84px;
+  font-size: 490%;
+
+  
+
+}
