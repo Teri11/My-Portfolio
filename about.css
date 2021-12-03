@@ -1,5 +1,5 @@
 body{
-  background-color: black;
+  background-color: whitesmoke;
 }
 
 .navbar {
@@ -70,13 +70,28 @@ body{
   display: block;
 }
 .picture{
-  height: 100px;
-  width: 100px;
+  height: 400px;
+  width: 600px;
+  border-radius: 50px;
   color: white;
+  margin-right: 30px;
+  margin-top: 20px;
+  /* align-items: center; */
+  /* display: flex; */
+  background-image: url(images/logo.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  float: right; 
   
 }
-#mimi{
-  height: 700px;
-  width: 500px;
-  border-radius: 307px;
+.text h3{
+  color: red;
+}
+.text{
+  font-size: x-large;
+  float: left;
+  color: black;
+  text-align: center;
+  line-height: -40px;
+  margin-left: 20px;
 }
