@@ -1,3 +1,7 @@
+body{
+  background-color: whitesmoke;
+}
+
 .navbar {
   background-image: url(images/intro-bg.jpg);
   overflow: hidden;
@@ -64,4 +68,59 @@
 
 .dropdown:hover .dropdown-content {
   display: block;
+}
+.qualifications{
+  color: red;
+  margin-left: 400px;
+  font-size: x-large;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 200px;
+  align-items: center;
+  line-height: 3px;
+  
+ 
+}
+.qualifications h2{
+  margin-left: 150px;
+  
+}
+.qualifications h1{
+  color: rgb(65, 62, 62);
+}
+.work{
+  /* margin-left: 900px; */
+  display: flex;
+  justify-content: space-between;
+}
+.edu{
+  margin-left: 100px;
+}
+.schools1{
+  float: right;
+  /* margin-left: 100px; */
+}
+.schools{
+  margin-left: 390px;
+}
+.schools p {
+  margin-left: 70px;
+}
+.schools span{
+  margin-left: 70px;
+
+}
+.schools1 p {
+  margin-left: 70px;
+}
+.schools1 span{
+  margin-left: 70px;
+
+}
+.schools2 p {
+  margin-left: 70px;
+}
+.schools2 span{
+  margin-left: 70px;
+
 }
