@@ -95,3 +95,15 @@ body{
   line-height: -40px;
   margin-left: 20px;
 }
+.profile{
+ font-size: medium;
+ font-size: x-large;
+ /* font-style: italic; */
+
+}
+.details{
+  list-style-type:none;
+  font-size: x-large;
+  text-align: center;
+  line-height: 124px;
+}
