@@ -170,3 +170,13 @@ h2{
   border-right: 6px solid red;
   
 }
+.social{
+  display: flex;
+  align-items: center;
+ 
+}
+.social a{
+  margin-left: 300px;
+  margin-top: 173px;
+  color: grey;
+}
