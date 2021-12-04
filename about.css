@@ -101,9 +101,18 @@ body{
  /* font-style: italic; */
 
 }
+.profile>h1{
+  color: red;
+}
 .details{
   list-style-type:none;
   font-size: x-large;
   text-align: center;
   line-height: 124px;
+}
+.social>a{
+  /* float: right; */
+  display:inline-block;
+  justify-content: space-between;
+ 
 }
