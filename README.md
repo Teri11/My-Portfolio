@@ -6,11 +6,11 @@ By Kubai Augustine Mweteri
 ## Description
 This is my personal prfolio contains information about me and my skills and achievement .It contains my resume and links to the projects i have worked on so far .It is like my online resume .
 ## Design
-<img src="images/home.png"> alt="home">
-<img src="images/about.png"> alt="about">
-<img src="images/education.png"> alt="education">
-<img src="images/projects.png"> alt="projects">
-<img src="images/contact.png"> alt="contact">
+<img src="images/home.png" alt="home">
+<img src="images/about.png" alt="about">
+<img src="images/education.png" alt="education">
+<img src="images/projects.png" alt="projects">
+<img src="images/contact.png" alt="contact">
 
 ## Setup/Installation Requirements
 1)Install the Visual studio code<br>2)Git clone the repository<br>3)Make sure the live server extension is installed<br>4)Click on Go live
