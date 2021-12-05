@@ -110,10 +110,66 @@ body{
   text-align: center;
   line-height: 124px;
 }
+.doing{
+  /* display: flex; */
+  justify-content: center;
+  margin-left: 200px;
+  font-size: 20px;
+}
 .social>a{
+  margin-left: 300px;
+  margin-top: 173px;
+  color: grey;
   /* float: right; */
-  display:inline-block;
-  justify-content: space-between;
+  /* display:inline-block; */
+  /* justify-content: space-between; */
  
+}
+.social{
+  display: flex;
+  align-items: center;
+}
+   .tall{
+    display:flex;
+    color: black;
+    background-color:whitesmoke ;
+    padding: 50px 50px 50px 50px;
+    margin-top: 700px;
+    
+   }
+   .box{ 
+    box-shadow: 0 -1px 4px 0 red;
+    transition: 0.3s;
+    height: 250px;
+    margin: 10px;
+    border-radius: 25px;
+    padding: 30px;
+    width: 500px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 60px;
+    padding-bottom: 100px;
+
+}   
+.box2{
+  box-shadow: 0 -1px 4px 0 purple;
+  /* transition: 0.3s; */
+  height: 250px;
+  margin: 10px; 
+  border-radius: 25px;
+  padding: 30px;
+  width: 300px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+} 
+.talent{
+float: right;
+margin-top: 600px;
+}
+.talent h2{
+  color: red;
+}
+.talent ul{
+  font-size: x-large;
 }
 
